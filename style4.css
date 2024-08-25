@@ -1,0 +1,50 @@
+.content{
+ height: 100px;
+ width: 100px;
+ background-color: pink;
+ display: inline-block;
+border-style: solid;
+border-color: rgb(4, 148, 28);
+border-width: 20px;
+}
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+    border-color: white;
+    border-width: 4px;
+    border-style: solid; 
+ 
+}
+body{
+    background-color: rgb(170, 170, 238);
+}
+a{
+    color: rgb(173, 141, 24);
+    font-size: 20px;
+    text-decoration: none;
+    margin-right: 190px;
+}
+#button2{
+    background-color: #f08804;
+    color: white;
+}
+.myclass{
+    color: white;
+}
+#traffic{
+    height: 60px;
+    background-color: #0f1111;
+    border-color: white;
+    border-style: solid;  
+}
+footer{
+    background-color: black;
+    height: 70px;
+}
+#footer{
+    color: white;
+    text-align: center;
+}
+#content{
+    height: 500px;
+}

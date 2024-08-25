@@ -1,0 +1,24 @@
+
+    #navbar{
+        display:flex ;
+        height: 20px;
+        width: auto;
+        background-color:rgb(131, 225, 233);
+        justify-content: space-evenly;
+    }
+    li{
+        list-style: none;
+    }
+    #outer{
+        height: 300px;
+        width: 300px;
+        background-color: blue;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #inner{
+        height: 100px;
+        width: 100px;
+        background-color: brown;
+    }

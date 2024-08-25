@@ -1,0 +1,16 @@
+div{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%; 
+    border: 50px solid rgb(252, 0, 42);
+    border-top: 50px solid rgb(151, 229, 7);
+    animation: spin 1s ease 0s infinite normal;
+}
+@keyframes spin {
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
